@@ -282,7 +282,7 @@ ui = fluidPage(
         "and on the worksheet so check there if you're not sure what a",
         "particular term or symbol means. If you are having any issues",
         tags$a(
-            href = "mailto:j.fogg@sms.ed.ac.uk",
+            href = "mailto:j.fogg@ed.ac.uk",
             "drop us an email"
         ),
         "and we'll get back to you as soon as possible.",
