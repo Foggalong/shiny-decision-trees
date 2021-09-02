@@ -1,26 +1,22 @@
-# YAML 1.2
----
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Decision Tree Shiny App"
+date-released: 2020-06-17
 abstract: "A Shiny App built with R to demonstrate the building of decision trees for email spam filtering systems."
 authors: 
-  -
-    affiliation: "University of Edinburgh"
-    family-names: Fogg
+  - family-names: Fogg
     given-names: Josh
-  -
     affiliation: "University of Edinburgh"
-    family-names: Deutsch
+  - family-names: Deutsch
     given-names: Isabella
-cff-version: "1.1.0"
-date-released: 2020-06-17
-identifiers: 
+    affiliation: "University of Edinburgh"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Foggalong/shiny-decision-trees"
 keywords: 
   - "machine-learning"
   - r
   - shiny
   - "decision-trees"
   - "spam-filtering"
-license: MIT
-message: "If you use this software, please cite it using these metadata."
-repository-code: "https://github.com/Foggalong/shiny-decision-trees"
-title: "Decision Tree Shiny App"
 ...
